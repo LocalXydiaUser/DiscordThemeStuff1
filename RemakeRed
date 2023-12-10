@@ -9,14 +9,7 @@ DevEvil Remake red
   --darkplus-sec: #ff1031;
   --darkplus-links: #ff1031;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/817391048472002560/1183529163374739496/Untitled_design_9.png?ex=6588aa6d&is=6576356d&hm=e7eec82a28d2520016e1a621b844d96051dd1f812f9188a841be7a71b9860adb&.png);
- --watermark-filter-invert: 0%;
-  --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 70%;
-  --watermark-filter-contrast: 200%;
-  --darkplus-emoji-picker-color: 210deg;
-}
+
 
 .bg__7adbf,
 .container__4bde3 {
